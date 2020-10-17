@@ -73,6 +73,8 @@
 2. 🎉
 <!--END_SECTION:activity-->
 
+</details>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
