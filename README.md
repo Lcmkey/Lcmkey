@@ -69,7 +69,7 @@
 
 ---
 
-<details>
+<details open>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -79,7 +79,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lcmkey&show_icons=true&hide_border=true" />
