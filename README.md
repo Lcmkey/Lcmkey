@@ -1,5 +1,9 @@
 ### Hi there, I's Sam Leung - aka [Lcmkey][Personal_Webiste]
 
+
+[![Website](https://img.shields.io/website?label=samleung.me&style=for-the-badge&url=https%3A%2F%2samleung.me)][Personal_Webiste]
+[![Twitter Follow](https://img.shields.io/twitter/follow/lcmkey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/home?lang=en)
+
 ## I'm Web Developer and AWS Enginner
 - I'm currently learning everthing
 - I'm looking to collaborate with other contenet creators
