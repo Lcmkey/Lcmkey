@@ -6,6 +6,10 @@
 - 2020 Goals: Contribute more to Open Source projects
 - Fun fact: 
 
+### Spotify Playing 🎧
+
+<!-- [<img src="${SRC}" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/${USER_ID}) -->
+
 ### Connect with me:
 
 [<img align="left" alt="samleung.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Personal_Webiste]
@@ -30,6 +34,51 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Personal_Webiste]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Personal_Webiste]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Personal_Webiste]
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- .
+- .
+- .
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- .
+- .
+- .
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://samleung.me)
+
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 
+2. 🎉
+<!--END_SECTION:activity-->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Sam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lcmkey&show_icons=true&hide_border=true" />
+
+</details>
 
 <!-- Links -->
 [Personal_Webiste]: https://samleung.me
